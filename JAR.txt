@@ -1,0 +1,2 @@
+java --module-path C:\Users\Mateusz\Desktop\ProjektZaliczeniowy\javafx-sdk-11.0.2\lib --add-modules javafx.controls,javafx.fxml -jar C:\Users\Mateusz\Desktop\ProjektZaliczeniowy\out\artifacts\ProjektZaliczeniowy_jar\ProjektZaliczeniowy.jar
+

@@ -1,0 +1,25 @@
+.button {
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-font-size: 12px;
+    -fx-background-color: RoyalBlue;
+    -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.3), 10, 0.5, 0.0, 0.0);
+}
+
+.button:hover {
+    -fx-background-color: #5489e1;
+}
+
+.text-input {
+    -fx-base: #5489e1;
+}
+
+.tab-pane .tab-header-area .tab-header-background {
+    -fx-background-color: RoyalBlue;
+    -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.3), 10, 0.5, 0.0, 0.0);
+}
+
+.tab .tab-label {
+    -fx-font-weight: bold;
+    -fx-font-size: 12px;
+}
